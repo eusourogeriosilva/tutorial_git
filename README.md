@@ -50,3 +50,5 @@ git branch nome_da_branch
 # ALTERAR BRANCH
 git checkout nome_da_branch
 
+# APAGAR BRANCH
+git branch -d nome_da_branch
