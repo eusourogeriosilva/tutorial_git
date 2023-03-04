@@ -52,3 +52,6 @@ git checkout nome_da_branch
 
 # APAGAR BRANCH
 git branch -d nome_da_branch
+
+# MERGEAR BRANCH
+git merge nome_da_branch
