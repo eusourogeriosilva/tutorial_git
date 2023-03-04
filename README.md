@@ -51,6 +51,9 @@ git branch nome_da_branch
 # ALTERAR BRANCH
 git checkout nome_da_branch
 
+# CRIA BACKUP DA BRANCH
+git checkout -b nome_da_branch_bkp
+
 # APAGAR BRANCH
 git branch -d nome_da_branch
 
