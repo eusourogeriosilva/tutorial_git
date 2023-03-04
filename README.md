@@ -53,12 +53,6 @@ git checkout nome_da_branch
 
 # APAGAR BRANCH
 git branch -d nome_da_branch
-<<<<<<< HEAD
-=======
-
->>>>>>> 29d2d84703438309a972662a87d2d1275f20805c
-=======
 
 # MERGEAR BRANCH
 git merge nome_da_branch
->>>>>>> ramo01
